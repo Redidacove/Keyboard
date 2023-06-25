@@ -1,0 +1,15 @@
+.jumbotron{
+    margin:3px 12px;
+    padding:12px 12px;
+    background-color: rgb(174, 171, 171);
+}
+
+#greet{
+    margin: 15px auto;
+    padding: 5px 0;
+}
+
+/* .btn-btn-primary{
+    height: 200px;
+    padding: 100px 200px;
+} */
